@@ -10,6 +10,7 @@ function forLoop(array) {
  return array; }
  
  function whileLoop(n) {
+<<<<<<< HEAD
    while (n > 0) {
      console.log(--n)
      if (n <= 0) 
@@ -24,3 +25,7 @@ function forLoop(array) {
   return Math.random() >= 0.5
 }
 return array}
+=======
+   
+ }
+>>>>>>> 2ee87ed949317ed2571b6085619a459696d51fb7
